@@ -103,7 +103,7 @@ PRODUCT_PACKAGES += \
 
 # DolbyAtmos
 PRODUCT_PACKAGES += \
-    DolbyAtmos
+    LunarisDolby
 
 # Dolby Proprietary blobs
 PRODUCT_COPY_FILES += \
